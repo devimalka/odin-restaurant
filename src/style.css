@@ -1,0 +1,29 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    border: 1px solid black;
+    list-style-type: none;
+}
+
+.landing {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    border: 1px solid green;
+    height: 20rem;
+
+}
+
+.landing img{
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
